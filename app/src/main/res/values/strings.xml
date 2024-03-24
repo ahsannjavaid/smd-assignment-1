@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SMD Assignment 1</string>
+    <string name="fname">First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="rePassword">Confirm Password</string>
+    <string name="signup">Signup</string>
+    <string name="exit">Exit</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="already_account">Already have an account?</string>
+    <string name="login">Login now</string>
+    <string name="title_activity_home2">GUI Demo (21L-1815)</string>
+    <string name="tab_text_1">One</string>
+    <string name="tab_text_2">Two</string>
+    <string name="back_button_description">Back</string>
+</resources>
